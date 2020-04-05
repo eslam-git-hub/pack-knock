@@ -1,5 +1,5 @@
 {
-    "name": "pack/knock",
+    "name": "packses/knock",
     "description": "to calculator difference between number",
     "require": {},
     "minimum-stability": "dev",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Knock\\Calculator\\": "pack/knock/src"
+            "Knock\\Calculator\\": "packses/knock/src"
         }
     }
 }
